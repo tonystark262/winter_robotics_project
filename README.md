@@ -1,6 +1,4 @@
 ## Control of Pioneer-3DX robot using ROS
-#### Duration:
-from --- to ---
 
 This document is aimed to provide a quick guide to the people who might wish to work on Pioneer robots through Robot Operating System(ROS).
 
